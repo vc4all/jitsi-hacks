@@ -544,7 +544,7 @@
     "suspendedoverlay": {
         "rejoinKeyTitle": "Opnieuw deelnemen",
         "text": "Druk op de knop <i>Opnieuw deelnemen</i> om opnieuw verbinding te maken.",
-        "title": "Uw videogesprek is onderbroken, omdat de slaapstand van de computer is geactiveerd."
+        "title": "Uw beeldbel gesprek is onderbroken, omdat de slaapstand van de computer is geactiveerd."
     },
     "toolbar": {
         "accessibilityLabel": {
@@ -699,7 +699,7 @@
         "calendar": "Agenda",
         "connectCalendarButton": "Uw agenda koppelen",
         "connectCalendarText": "",
-        "enterRoomTitle": "Een nieuwe vergadering starten",
+        "enterRoomTitle": "Bedenk een naam voor uw ruimte en druk op start om te beeldbellen",
         "go": "Start",
         "join": "Deelnemen",
         "info": "Informatie",
