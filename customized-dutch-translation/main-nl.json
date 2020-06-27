@@ -692,6 +692,7 @@
             "join": "Tik om deel te nemen",
             "roomname": "Naam van ruimte invoeren"
         },
+        "appDescription": "U kunt nu beeldbellen met uw familie en vrienden. U kunt uitnodigen wie u maar wilt. Hier heeft u geen account voor nodig. Maak een ruimte aan (eventueel met wachtwoord). Stuur de link aan iedereen die u wilt uitnodigen. Mogelijk gemaakt door de 100% Open Source applicatie {{app}} en de vrijwilligers van VC4ALL",
         "audioVideoSwitch": {
             "audio": "Spraak",
             "video": "Video"
@@ -712,6 +713,7 @@
         "roomnameHint": "Voer de naam of URL in van de ruimte die u wilt betreden. U kunt een naam verzinnen, maar geef de naam wel door aan de andere deelnemers, zodat zij dezelfde naam kunnen invoeren.",
         "sendFeedback": "Feedback sturen",
         "terms": "Voorwaarden",
+        "title": "Eenvoudig en snel beeldbellen met vrienden en familie"
     },
     "lonelyMeetingExperience": {
         "button": "Anderen uitnodigen",
